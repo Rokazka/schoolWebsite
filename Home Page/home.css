@@ -196,7 +196,6 @@ img {
     flex-direction: column;
     width: 70%;
     margin-top: 50px;
-    margin-bottom: 50px;
     padding: 20px;
     font-size: 1.3rem;
     text-align: center;
@@ -329,10 +328,6 @@ img {
         width: 90%;
         max-width: 320px;
     }
-    .contactUsdetails {
-        margin-top: 20px;
-        margin-bottom: 20px;
-    }
     .awardsy {
         height: 200px;
     }
@@ -345,12 +340,10 @@ img {
         font-size: 1.6rem;
     }
     .socialbox {
-        margin: 10px;
-        width: 30px;
-        height: 30px;
+        width: 40px;
+        height: 40px;
         box-shadow: 0px 3px 100px 15px#5e1a1a;
         border-radius: 50%;
-        width: calc(100%/6);
     }
 }
 
