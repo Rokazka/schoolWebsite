@@ -346,10 +346,11 @@ img {
     }
     .socialbox {
         margin: 10px;
-        width: 60px;
-        height: 60px;
+        width: 30px;
+        height: 30px;
         box-shadow: 0px 3px 100px 15px#5e1a1a;
         border-radius: 50%;
+        width: calc(100%/6);
     }
 }
 
